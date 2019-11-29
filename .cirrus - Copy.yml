@@ -1,0 +1,5 @@
+pipe:
+  name: Build Site and Validate Links
+  steps:
+    - image: squidfunk/mkdocs-material:latest
+      build_script: mkdocs build
