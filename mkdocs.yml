@@ -9,5 +9,7 @@ theme:
   logo: 'na6.png'
   feature:
     tabs: false
-
+google_analytics:
+  - UA-123568344-4
+  - auto
   
